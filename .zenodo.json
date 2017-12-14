@@ -1,5 +1,4 @@
 {
-    "title": "ASPECT",
     "creators": [
 	{
 	    "name": "Wolfgang Bangerth",
@@ -14,10 +13,9 @@
 	    "affiliation": "Colorado State University"
 	},
 	{
-	    "name": "Heister, Timo",
-	    "affiliation": "Clemson University"
+	    "name": "Timo Heister",
+	    "affiliation": "Clemson University",
+	    "orcid": "0000-0002-8137-3903"
 	}
-    ],
-  "description": "my Project Description",
-  "access_right": "open"
+    ]
 }
