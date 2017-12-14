@@ -1,0 +1,24 @@
+{
+    "title": "ASPECT",
+    "creators": [
+	{
+	    "name": "Wolfgang Bangerth",
+	    "affiliation": "Colorado State University"
+	},{
+	{
+	    "name": "Juliane Dannberg",
+	    "affiliation": "Colorado State University"
+	},{
+	{
+	    "name": "Rene Gassmoeller",
+	    "affiliation": "Colorado State University"
+	},{
+	{
+	    "name": "Heister, Timo",
+	    "affiliation": "Clemson University"
+	}
+    ],
+  "description": "my Project Description",
+  "access_right": "open",
+  "license": "GNU General Public License 2.0",
+}
